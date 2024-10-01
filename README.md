@@ -13,4 +13,5 @@ This project examines death and vaccination data from the ['Our World in Data'](
 - [Tableau Queries](https://github.com/mkweonn/covid-data-exploration-and-tableau-visualization/blob/main/covid_tableau_queries.sql)
 
 ### Tableau
-- [Covid Dashboard](https://public.tableau.com/views/CovidDashboard_17247313697160/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Interactive Dashboard](https://public.tableau.com/views/CovidDashboard_17247313697160/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![Covid Dashboard](https://github.com/mkweonn/covid-data-exploration-and-tableau-visualization/blob/main/covid%20dashboard.png)
